@@ -1,0 +1,17 @@
+IRCTC Railway Ticket
+--------------------
+PNR Number: 8621575592
+Passenger Name: mhk
+Age: 22
+Gender: Female
+Mobile Number: 9876584993
+Train: Vande Bharat Express
+Source: Chandigarh
+Destination: Ambala
+Date of Journey: 25/04/2025
+Travel Class: AC First Class
+Distance: 50 km
+Fare: ₹250.00
+--------------------
+Status: Confirmed
+Thank you for booking with IRCTC!

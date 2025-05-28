@@ -1,0 +1,17 @@
+IRCTC Railway Ticket
+--------------------
+PNR Number: 7845265969
+Passenger Name: mahak
+Age: 22
+Gender: Female
+Mobile Number: 9876894635
+Train: Shatabdi Express
+Source: Delhi
+Destination: Ambala
+Date of Journey: 27/04/2025
+Travel Class: Sleeper
+Distance: 200 km
+Fare: ₹300.00
+--------------------
+Status: Confirmed
+Thank you for booking with IRCTC!

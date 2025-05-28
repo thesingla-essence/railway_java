@@ -1,0 +1,17 @@
+IRCTC Railway Ticket
+--------------------
+PNR Number: 2116526878
+Passenger Name: simran
+Age: 22
+Gender: Female
+Mobile Number: 9847463292
+Train: Vande Bharat Express
+Source: Chandigarh
+Destination: Jalandhar
+Date of Journey: 25/04/2025
+Travel Class: AC First Class
+Distance: 150 km
+Fare: ₹750.00
+--------------------
+Status: Confirmed
+Thank you for booking with IRCTC!
