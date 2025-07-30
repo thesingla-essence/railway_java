@@ -63,7 +63,7 @@ java IRCTCBookingSystem
 
 ## 🧑‍💻 Developer Info
 
-Made with 💖 by **\Mahak Singla**
+Made with 💖 by **Mahak Singla**
 📌 Project Type: Academic / Practice
 🖥️ IDE (Optional): VS Code / IntelliJ / BlueJ / Notepad++
 
